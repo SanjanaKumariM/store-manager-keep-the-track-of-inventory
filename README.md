@@ -1,0 +1,1 @@
+# store-manager-keep-the-track-of-inventory
